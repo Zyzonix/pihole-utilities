@@ -9,4 +9,6 @@
 #
 #
 # -----------------------
-io$
+krunker.io
+surviv.io
+agar.io
