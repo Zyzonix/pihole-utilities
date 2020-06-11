@@ -9,3 +9,6 @@
 # THIS IS A PRIVATE LIST
 #
 # -----------------------
+riotcdn
+leagueoflegends
+riotgames
