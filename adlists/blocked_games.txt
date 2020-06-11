@@ -12,3 +12,7 @@
 riotcdn
 leagueoflegends
 riotgames
+steam
+discord
+teamspeak
+
