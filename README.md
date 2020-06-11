@@ -1,6 +1,10 @@
 # pihole-utilities
 adlists for pihole
 
+The author @Zyzonix doesn't takes warranty for functionality. 
+
+RAW-Links: 
+
 FULL ADLIST:
 https://raw.githubusercontent.com/Zyzonix/pihole-utilities/master/adlists/youtube_ads.txt
 
@@ -11,6 +15,6 @@ YOUTUBE:
 https://raw.githubusercontent.com/Zyzonix/pihole-utilities/master/adlists/youtube.txt
 
 GAMES:
-
+https://raw.githubusercontent.com/Zyzonix/pihole-utilities/master/adlists/online_games.txt
 
 OTHER:
