@@ -1,4 +1,4 @@
-# Title: games.txt
+# Title: online_games.txt
 #
 # Author: Zyzonix
 #
