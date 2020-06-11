@@ -12,3 +12,4 @@ https://raw.githubusercontent.com/Zyzonix/pihole-utilities/master/adlists/youtub
 
 OTHER:
 
+[test](https://raw.githubusercontent.com/Zyzonix/pihole-utilities/master/adlists/youtube.txt)
