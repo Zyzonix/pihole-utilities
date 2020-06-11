@@ -1,2 +1,13 @@
+# Title: games.txt
+#
+# Author: Zyzonix
+#
+# last updated: 11.06.20
+#
+# sources:
+# just myself...
+#
+#
+# -----------------------
 krunker.io
 surviv.io
