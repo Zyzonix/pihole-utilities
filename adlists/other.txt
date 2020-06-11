@@ -1,1 +1,10 @@
-
+# Title: other.txt
+#
+# Author: Zyzonix
+#
+# last updated: 11.06.20
+#
+# sources:
+# still empty
+#
+# -----------------------
