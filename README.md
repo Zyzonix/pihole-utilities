@@ -1,7 +1,7 @@
 # pihole-utilities
 adlists for pihole
 
-The author @Zyzonix doesn't takes warranty for functionality. 
+The author [@Zyzonix](https://github.com/Zyzonix/) doesn't takes warranty for functionality. 
 
 RAW-Links: 
 
