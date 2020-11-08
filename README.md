@@ -7,7 +7,7 @@
 * run ```pihole -g``` to refresh pihole's gravity lists
 
 
-##### The author [@Zyzonix](https://github.com/Zyzonix/) doesn't takes warranty for functionality. 
+##### The author [@Zyzonix](https://github.com/Zyzonix/) doesn't take warranty for functionality. 
 
 #### RAW-Links: 
 
