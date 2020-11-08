@@ -3,7 +3,7 @@
 
 
 #### Usage:
-* go to: ```https:your_dns_ip_here/admin/groups-adlists.php/``` copy one link below and paste it into the adress field.
+* go to: ```https://your_dns_ip_here/admin/groups-adlists.php/``` copy one link below and paste it into the adress field.
 * then click add and open a ssh connection to your DNS-Server
 * run ```pihole -g``` to refresh pihole's gravity lists
 
