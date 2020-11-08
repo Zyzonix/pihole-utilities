@@ -10,5 +10,6 @@
 #
 # -----------------------
 krunker.io
+api.krunker.io
 surviv.io
 agar.io
