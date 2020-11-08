@@ -1,5 +1,5 @@
-# Utilities for PiHole (Adlists)
-[![Last Updated](https://img.shields.io/badge/last updated-08%2011%2020-9cf)]()
+# Utilities for PiHole (Ad-lists)
+[![Last Updated](https://img.shields.io/badge/last%20updated-08%2011%2020-9cf)]()
 
 adlists for pihole
 
