@@ -1,7 +1,10 @@
 # Utilities for PiHole (Ad-lists)
 [![Last Updated](https://img.shields.io/badge/last%20updated-08.11.20-9cf)]()
 
-adlists for pihole
+#### Usage:
+* go to: ```https:your_dns_ip_here/admin/groups-adlists.php/``` copy one link below and paste it into the adress field.
+* then click add and open a ssh connection to your DNS-Server
+* run ```pihole -g``` to refresh pihole's gravity lists
 
 The author [@Zyzonix](https://github.com/Zyzonix/) doesn't takes warranty for functionality. 
 
