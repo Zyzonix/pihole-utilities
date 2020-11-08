@@ -1,5 +1,6 @@
-# Utilities for PiHole (Ad-lists)
+# Utilities for [PiHole](https://pi-hole.net/) (Ad-lists)
 [![Last Updated](https://img.shields.io/badge/last%20updated-08.11.20-9cf)]()
+
 
 #### Usage:
 * go to: ```https:your_dns_ip_here/admin/groups-adlists.php/``` copy one link below and paste it into the adress field.
