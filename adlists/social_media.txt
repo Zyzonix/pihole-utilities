@@ -1,1 +1,12 @@
-
+# Title: social_media.txt
+#
+# Author: Zyzonix
+#
+# last updated: 08.11.20
+#
+# sources:
+# 
+#
+# -----------------------
+facebook.com
+connect.facebook.com
