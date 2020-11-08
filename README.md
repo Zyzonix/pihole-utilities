@@ -6,7 +6,8 @@
 * then click add and open a ssh connection to your DNS-Server
 * run ```pihole -g``` to refresh pihole's gravity lists
 
-The author [@Zyzonix](https://github.com/Zyzonix/) doesn't takes warranty for functionality. 
+
+##### The author [@Zyzonix](https://github.com/Zyzonix/) doesn't takes warranty for functionality. 
 
 #### RAW-Links: 
 
