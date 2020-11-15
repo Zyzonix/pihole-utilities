@@ -8,7 +8,7 @@
 # just myself...
 #
 #
-#
+# Commit: domains of: Google Playstore
 # -----------------------
 play.google.com
 ggpht.com
