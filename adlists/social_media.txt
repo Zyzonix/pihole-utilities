@@ -32,6 +32,8 @@ pro-accounts.snapchat.com
 shows.snapchat.com
 aws.duplex.snapchat.com
 chat-gateway-prod.chat.snapchat.com
+snapchat-payments-gateway.snapchat.com
+pro-accounts.snapchat.com
 
 
 
