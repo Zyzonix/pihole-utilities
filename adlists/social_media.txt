@@ -13,8 +13,13 @@ connect.facebook.com
 graph.facebook.com
 
 #Snapchat
+snapchat.com
+snapcraft.io
+mvm.snapcraft.io
+dashboard.snapcraft.io
 us-central1-gcp.api.snapchat.com
 us-east1-aws.api.snapchat.com
+us-east4-gcp.api.snapchat.com
 euw.adserver.snapads.com
 europe-west1-gcp.api.snapchat.com
 aws.api.snapchat.com
@@ -25,6 +30,8 @@ app-analytics-v2.snapchat.com
 webattachments.snapchat.com
 pro-accounts.snapchat.com
 shows.snapchat.com
+aws.duplex.snapchat.com
+chat-gateway-prod.chat.snapchat.com
 
 
 
