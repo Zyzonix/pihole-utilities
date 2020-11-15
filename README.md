@@ -1,5 +1,5 @@
 # Utilities for [PiHole](https://pi-hole.net/) (Ad-lists)
-[![Last Updated](https://img.shields.io/badge/last%20updated-08.11.20-9cf)]()
+[![Last Updated](https://img.shields.io/badge/last%20updated-15.11.20-9cf)]()
 
 
 #### Usage:
