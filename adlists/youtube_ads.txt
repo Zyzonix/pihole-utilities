@@ -8,6 +8,7 @@
 # just myself...
 #
 #
+# Commit: domains of: Youtube-Ad-Servers
 # -----------------------
 r1---sn-cvh7knez.googlevideo.com
 r2---sn-cvh7knez.googlevideo.com
