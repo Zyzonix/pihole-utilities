@@ -6,7 +6,7 @@
 #
 # sources:
 # 
-#
+# Commit: domains of: Snapchat, Facebook
 # -----------------------
 facebook.com
 connect.facebook.com
@@ -34,6 +34,7 @@ aws.duplex.snapchat.com
 chat-gateway-prod.chat.snapchat.com
 snapchat-payments-gateway.snapchat.com
 pro-accounts.snapchat.com
+
 
 
 
