@@ -8,9 +8,11 @@
 # just myself...
 #
 #
-#
+# Commit: domains of: .io-games
 # -----------------------
 krunker.io
 api.krunker.io
 surviv.io
 agar.io
+freegames.io
+l.freegames.io
