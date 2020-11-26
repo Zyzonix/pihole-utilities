@@ -8,6 +8,7 @@
 # 
 # THIS IS A PRIVATE LIST
 #
+# Commit: domains of: Discord, League of Legends/RiotGames, Steam, Blitz
 # -----------------------
 #League of Legends / Riot
 lol.secure.dyn.riotcdn.net
@@ -26,6 +27,7 @@ lolstatic-a.akamaihd.net
 euw.ledge.leagueoflegends.com
 
 #Discord
+discord.com
 discordapp.com
 cdn.discordapp.com
 status.discordapp.com
@@ -33,12 +35,24 @@ gateway.discord.gg
 eu-central7208.discord.media
 eu-central994.discord.media
 eu-central390.discord.media
+eu-central1625.discord.media
 best.discord.media
+images-ext-1.discordapp.net
+media.discordapp.net
+latency.discord.media
+status.discord.com
 
 #Steam
 steam.com
 steampowered.com
 client-download.steampowered.com
 
-#
+# Blitz
+blitz.gg
+blitz-cdn-plain.blitz.gg
+blitz-desktop.blitz.gg
+blitz-stable.blitz.gg  
+snowflake.blitz.gg
+flash.blitz.gg
+
 #
