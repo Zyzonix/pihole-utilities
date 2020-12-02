@@ -7,8 +7,11 @@
 # sources:
 # 
 #
-# Commit: domains of: Youtube
+# Commit: domains of: Youtube / Twitch
 # -----------------------
+
+# Youtube
+
 googlevideo.com
 ytimg.com
 youtube-ui.l.google.com
@@ -16,5 +19,12 @@ ytimg.l.google.com
 ytstatic.l.google.com
 youtubei.googleapis.com
 youtube.com
-twitch.tv
 
+# Twitch
+twitch.tv
+api.twitch.tv
+panels-images.twitch.tv
+gql.twitch.tv
+countless.twitch.tv
+usher.ttvnw.net
+irc-ws.chat.twitch.tv
