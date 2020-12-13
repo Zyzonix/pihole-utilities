@@ -25,6 +25,7 @@ store.euw1.lol.riotgames.com
 pft.leagueoflegends.com
 lolstatic-a.akamaihd.net
 euw.ledge.leagueoflegends.com
+valorant.secure.dyn.riotcdn.net
 
 #Discord
 discord.com
@@ -55,4 +56,26 @@ blitz-stable.blitz.gg
 snowflake.blitz.gg
 flash.blitz.gg
 
-#
+# Minecraft
+mojang.com
+piston-meta.mojang.com
+sessionserver.mojang.com
+launchermeta.mojang.com
+authserver.mojang.com
+launchercontent.mojang.com
+api.mojang.com
+www.minecraftskins.com
+minecraft.net
+api.minecraftservices.com
+libraries.minecraft.net
+textures.minecraft.net
+pc.realms.minecraft.net
+_minecraft._tcp.alterraone.de
+_minecraft._tcp.gommehd.net
+_minecraft._tcp.city.mc
+gommehd.net
+
+
+
+
+# 
