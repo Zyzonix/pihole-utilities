@@ -29,3 +29,4 @@ gql.twitch.tv
 countless.twitch.tv
 usher.ttvnw.net
 irc-ws.chat.twitch.tv
+
