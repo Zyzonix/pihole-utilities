@@ -54,14 +54,21 @@ steamcdn-a.akamaihd.net
 steamstore-a.akamaihd.net
 cache37-fra1.steamcontent.com
 cache29-fra1.steamcontent.com
+cache54-fra1.steamcontent.com
+cache27-fra1.steamcontent.com
+cache9-fra1.steamcontent.com
 lancache.steamcontent.com
 clientconfig.akamai.steamstatic.com
 cm1-fra1.cm.steampowered.com
 cm2-fra1.cm.steampowered.com
 cm3-fra1.cm.steampowered.com
 cm4-fra1.cm.steampowered.com
+cm1-sto1.cm.steampowered.com
+cm5-sto1.cm.steampowered.com
 api.steampowered.com
 ipv6check-udp.steamcontent.com
+community.cloudflare.steamstatic.com
+steam-chat.com
 
 # Blitz
 blitz.gg
