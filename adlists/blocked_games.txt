@@ -27,6 +27,7 @@ pft.leagueoflegends.com
 lolstatic-a.akamaihd.net
 euw.ledge.leagueoflegends.com
 valorant.secure.dyn.riotcdn.net
+data.riotgames.com
 
 #Discord
 discord.com
@@ -48,6 +49,19 @@ status.discord.com
 steam.com
 steampowered.com
 client-download.steampowered.com
+store.steampowered.com
+steamcdn-a.akamaihd.net
+steamstore-a.akamaihd.net
+cache37-fra1.steamcontent.com
+cache29-fra1.steamcontent.com
+lancache.steamcontent.com
+clientconfig.akamai.steamstatic.com
+cm1-fra1.cm.steampowered.com
+cm2-fra1.cm.steampowered.com
+cm3-fra1.cm.steampowered.com
+cm4-fra1.cm.steampowered.com
+api.steampowered.com
+ipv6check-udp.steamcontent.com
 
 # Blitz
 blitz.gg
