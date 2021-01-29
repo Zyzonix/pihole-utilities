@@ -37,6 +37,13 @@ chat-gateway-prod.chat.snapchat.com
 snapchat-payments-gateway.snapchat.com
 pro-accounts.snapchat.com
 
+#Twitter
+twitter.com
+platform.twitter.com
+syndication.twitter.com
+
+
+
 
 
 
