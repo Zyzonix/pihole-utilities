@@ -16,6 +16,7 @@ ekg.riotgames.com
 sieve.services.riotcdn.net
 entitlements.auth.riotgames.com
 loadouts.euw1.leagueoflegends.com
+oembed.leagueoflegends.com
 prod.euw1.lol.riotgames.com
 clientconfig.rpg.riotgames.com
 eu.edge.rms.si.riotgames.com
