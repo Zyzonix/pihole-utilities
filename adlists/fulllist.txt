@@ -1,8 +1,8 @@
 # Title: Adlist
 #
-# Author: Zyzonix
+# Author: ZyzonixDev
 #
-# last updated: 06.06.20
+# last updated: 02-ß2-2021
 #
 # sources:
 # https://www.sunshine.it/blacklist.txt
