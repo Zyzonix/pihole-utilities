@@ -1,5 +1,5 @@
 # Utilities for [PiHole](https://pi-hole.net/) (Ad-lists)
-[![Last Updated](https://img.shields.io/badge/last%20updated-02/02/2021-9cf)]()
+[![Last Updated](https://img.shields.io/badge/last%20updated-15/02/2021-9cf)]()
 
 
 #### Usage:
@@ -12,7 +12,7 @@
 
 #### RAW-Links: 
 
- - [FULL ADLIST](https://raw.githubusercontent.com/Zyzonix/pihole-utilities/master/adlists/youtube_ads.txt)
+ - [FULL ADLIST](https://raw.githubusercontent.com/Zyzonix/pihole-utilities/master/adlists/fulllist.txt)
  - [PLAYSTORE](https://github.com/Zyzonix/pihole-utilities/raw/master/adlists/playstore.txt) 
  - [YOUTUBE](https://raw.githubusercontent.com/Zyzonix/pihole-utilities/master/adlists/youtube.txt)
  - [GAMES](https://raw.githubusercontent.com/Zyzonix/pihole-utilities/master/adlists/online_games.txt)
