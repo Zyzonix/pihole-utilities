@@ -17,3 +17,5 @@ agar.io
 freegames.io
 l.freegames.io
 callofwar.com
+cat.wargaming.net
+wgusst-wgceu.wargaming.net
