@@ -16,3 +16,4 @@ surviv.io
 agar.io
 freegames.io
 l.freegames.io
+callofwar.com
