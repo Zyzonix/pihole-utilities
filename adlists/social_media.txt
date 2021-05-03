@@ -44,6 +44,7 @@ syndication.twitter.com
 
 # Instagram
 instagram.com
+graph.instagram.com
 
 
 
