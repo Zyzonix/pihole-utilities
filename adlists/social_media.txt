@@ -6,7 +6,7 @@
 #
 # sources:
 # 
-# Commit: domains of: Snapchat, Facebook
+# Commit: domains of: Snapchat, Facebook, Instagram
 # -----------------------
 facebook.com
 web.facebook.com
@@ -45,6 +45,8 @@ syndication.twitter.com
 # Instagram
 instagram.com
 graph.instagram.com
+i.instagram.com
+www.instagram.com
 
 
 
