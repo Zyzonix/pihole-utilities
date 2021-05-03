@@ -47,6 +47,7 @@ instagram.com
 graph.instagram.com
 i.instagram.com
 www.instagram.com
+edge-chat.instagram.com
 
 
 
