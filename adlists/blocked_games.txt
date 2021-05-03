@@ -30,20 +30,20 @@ valorant.secure.dyn.riotcdn.net
 data.riotgames.com
 
 #Discord
-discord.com
-discordapp.com
-cdn.discordapp.com
-status.discordapp.com
-gateway.discord.gg
-eu-central7208.discord.media
-eu-central994.discord.media
-eu-central390.discord.media
-eu-central1625.discord.media
-best.discord.media
-images-ext-1.discordapp.net
-media.discordapp.net
-latency.discord.media
-status.discord.com
+#discord.com
+#discordapp.com
+#cdn.discordapp.com
+#status.discordapp.com
+#gateway.discord.gg
+#eu-central7208.discord.media
+#eu-central994.discord.media
+#eu-central390.discord.media
+#eu-central1625.discord.media
+#best.discord.media
+#images-ext-1.discordapp.net
+#media.discordapp.net
+#latency.discord.media
+#status.discord.com
 
 #Steam
 steam.com
@@ -97,7 +97,12 @@ _minecraft._tcp.gommehd.net
 _minecraft._tcp.city.mc
 gommehd.net
 
+# Call of war
+callofwar.com
 
+# Wargaming
+cat.wargaming.net
+wgusst-wgceu.wargaming.net
 
 
 # 
