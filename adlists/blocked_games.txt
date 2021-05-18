@@ -76,9 +76,10 @@ steamcdn-a.akamaihd.net
 blitz.gg
 blitz-cdn-plain.blitz.gg
 blitz-desktop.blitz.gg
-blitz-stable.blitz.gg  
+blitz-stable.blitz.gg
 snowflake.blitz.gg
 flash.blitz.gg
+blitz-cms.iesdev.com
 
 # Minecraft
 mojang.com
