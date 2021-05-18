@@ -98,7 +98,8 @@ _minecraft._tcp.city.mc
 gommehd.net
 
 # Call of war
-callofwar.com
+callofwar.com	
+www.callofwar.com
 
 # Wargaming
 cat.wargaming.net
