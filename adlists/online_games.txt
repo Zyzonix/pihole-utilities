@@ -22,3 +22,5 @@ ns.exitgames.com
 exitgames.com
 www.exitgames.com
 slams105.exitgames.com
+raid.land
+www.raid.land
