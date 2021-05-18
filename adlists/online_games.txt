@@ -16,3 +16,9 @@ surviv.io
 agar.io
 freegames.io
 l.freegames.io
+api.freegames.io
+www.freegames.io
+ns.exitgames.com
+exitgames.com
+www.exitgames.com
+slams105.exitgames.com
