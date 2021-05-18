@@ -105,6 +105,7 @@ callofwar.com
 www.callofwar.com
 sentry.bytro.com
 www.bytro.com
+static1.bytro.com
 
 # Wargaming
 cat.wargaming.net
