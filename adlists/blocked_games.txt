@@ -65,10 +65,12 @@ cm3-fra1.cm.steampowered.com
 cm4-fra1.cm.steampowered.com
 cm1-sto1.cm.steampowered.com
 cm5-sto1.cm.steampowered.com
+cm1-sto2.cm.steampowered.com
 api.steampowered.com
 ipv6check-udp.steamcontent.com
 community.cloudflare.steamstatic.com
 steam-chat.com
+steamcdn-a.akamaihd.net
 
 # Blitz
 blitz.gg
@@ -100,10 +102,31 @@ gommehd.net
 # Call of war
 callofwar.com	
 www.callofwar.com
+sentry.bytro.com
+www.bytro.com
 
 # Wargaming
 cat.wargaming.net
 wgusst-wgceu.wargaming.net
 
+# pr0gramm.com
+img.pr0gramm.com
+www.pr0gramm.com
+vid.pr0gramm.com
+pr0gramm.com
 
-# 
+# railsim // and other stuff
+rail-sim.de
+www.rail-sim.de
+www.lok-report.de
+www.eurailpress.de
+data.trainsim.net
+trainsim.net
+
+# train simulator
+api.dovetailgames.com
+www.dovetailgames.com
+auth.dovetailgames.com
+
+#
+
