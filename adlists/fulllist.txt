@@ -1,4 +1,4 @@
-# Title: Adlist
+﻿# Title: Adlist
 #
 # Author: ZyzonixDev
 #
@@ -50533,13 +50533,13 @@ www.bing.com
 cdn.podigee.com
 www.podigee.com
 podigee.com
-www.reddit.com
-reddit.com
-www.redditstatic.com
-v.redd.it
-www.redditmedia.com
-i.redd.it
-preview.redd.it
-gateway.reddit.com
-gql.reddit.com
-emoji.redditmedia.com
+#www.reddit.com
+#reddit.com
+#www.redditstatic.com
+#v.redd.it
+#www.redditmedia.com
+#i.redd.it
+#preview.redd.it
+#gateway.reddit.com
+#gql.reddit.com
+#emoji.redditmedia.com
