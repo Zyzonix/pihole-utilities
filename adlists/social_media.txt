@@ -38,9 +38,9 @@ snapchat-payments-gateway.snapchat.com
 pro-accounts.snapchat.com
 
 #Twitter
-twitter.com
-platform.twitter.com
-syndication.twitter.com
+#twitter.com
+#platform.twitter.com
+#syndication.twitter.com
 
 # Instagram
 instagram.com
