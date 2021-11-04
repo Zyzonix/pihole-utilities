@@ -16,9 +16,6 @@ graph.facebook.com
 
 #Snapchat
 snapchat.com
-snapcraft.io
-mvm.snapcraft.io
-dashboard.snapcraft.io
 us-central1-gcp.api.snapchat.com
 us-east1-aws.api.snapchat.com
 us-east4-gcp.api.snapchat.com
