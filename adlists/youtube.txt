@@ -20,6 +20,7 @@ ytstatic.l.google.com
 youtubei.googleapis.com
 youtube.com
 consent.youtube.com
+www.youtube.com
 
 # Twitch
 twitch.tv
